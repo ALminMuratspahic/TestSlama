@@ -8,6 +8,7 @@ public class TestSlamaApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestSlamaApplication.class, args);
+		System.out.println("Test");
 	}
 
 }
